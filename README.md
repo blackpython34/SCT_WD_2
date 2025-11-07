@@ -2,6 +2,9 @@
 
 A sleek, feature-rich stopwatch web application with precise timing and lap tracking capabilities. Built with modern web technologies and a dark-themed UI.
 
+## 🌐 Live Demo
+Check out the live demo: [Modern Stopwatch](https://blackpython34.github.io/SCT_WD_2/)
+
 ## ⭐ Key Features
 
 - **Precise Timing**
